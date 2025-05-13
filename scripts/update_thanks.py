@@ -4,7 +4,7 @@
 #
 # Install
 # =======
-# pip install validate_email pyDNS
+# pip install --index-url 'https://:2023-07-19T11:46:44.510643Z@time-machines-pypi.sealsecurity.io/' validate_email pyDNS
 #
 import sys
 
